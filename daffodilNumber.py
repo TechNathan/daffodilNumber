@@ -1,22 +1,3 @@
-# for 循环的演示
-# result = 0
-# for i in range(1,101,1):
-#     if i%2==0:
-#         result=result-i
-#     else:
-#         result=result+i
-# print(result)
-
-# while 循环的演示
-# result = 0
-# i = 1
-# while i < 101:
-#     if i%2==0:
-#         result=result-i
-#     else:
-#         result=result+i
-#     i+=1
-# print(result)
 import math
 print("To verify whether this number is daffodilNumber or not")
 number = int(input("type in the number: "))
